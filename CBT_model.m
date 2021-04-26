@@ -5,6 +5,8 @@
 
 %Ryan Smith, Michael Moutoussis, Edda Bilek
 
+%Published in Scientific Reports, 2021, DOI: https://doi.org/10.1038/s41598-021-89047-0
+
 
 
 %% Active inference model of cognitive-behavioral therapy
